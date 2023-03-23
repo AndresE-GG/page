@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "¿Quienes somos?",
+    "section": "",
+    "text": "Objetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
+  },
+  {
     "objectID": "ALC.html",
     "href": "ALC.html",
     "title": "Algebra lineal computacional",
@@ -56,18 +63,18 @@
     "text": "Capitulo 7\n\nAutovalores de una matriz.\nTeorema de los círculos de Gershgorin Algoritmo QR (soluciones reales).\nMétodo de las potencias."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "¿Quienes somos?",
-    "section": "",
-    "text": "Objetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
-  },
-  {
     "objectID": "asignaturas.html",
     "href": "asignaturas.html",
     "title": "Asignaturas",
     "section": "",
     "text": "Métodos numéricos.\nIntroducción a la programación.\nAnálisis y computación numérica.\nIntroducción a la modelización.\nComputación científica.\nÁlgebra lineal computacional.\nModelización y simulación I.\nModelización y simulación II."
+  },
+  {
+    "objectID": "avancesProyectos.html",
+    "href": "avancesProyectos.html",
+    "title": "Avances de proyectos",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutor ficticio 1\n\n\nMar 22, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "horarios.html",
@@ -208,6 +215,20 @@
     "title": "Modelización y simulación II",
     "section": "Capitulo 6",
     "text": "Capitulo 6\nMetodos para ecuaciones elípticas. Discretizacion y condiciones acotas. Principio del maximo, Estimaciones del error global. Operador splitting. Aplicaciones reales."
+  },
+  {
+    "objectID": "postsProy/post1/index.html",
+    "href": "postsProy/post1/index.html",
+    "title": "Prueba 1",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "objectID": "postsProy/post2/index.html",
+    "href": "postsProy/post2/index.html",
+    "title": "Prueba 2",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
   },
   {
     "objectID": "servicios.html",
