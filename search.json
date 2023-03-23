@@ -1,10 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "¿Quienes somos?",
+    "objectID": "modSimI.html",
+    "href": "modSimI.html",
+    "title": "Modelización y simulación I",
     "section": "",
-    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
+    "text": "La modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-1",
+    "href": "modSimI.html#capitulo-1",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\n\nIntroducción al modelización.\n¿Qué es modelización matemática?\nPrincipios de conservación y balance.\nAnálisis dimensional.\nEscaling."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-2",
+    "href": "modSimI.html#capitulo-2",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\n\nModelos continuos.\nEjemplos de modelos en ecuaciones diferenciales ordinarias:\n\nModelos de crecimiento exponencial (crecimiento radiactivo, crecimiento de bacterias).\nModelo logístico (modelos con capacidad de carga).\nModelos de competencia de especies (depredador presa).\nModelos de cooperación. Modelos en equilibrio.\nModelos amortiguados."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-3",
+    "href": "modSimI.html#capitulo-3",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\n\nSimulación numérica.\nDiferencias finitas.\nAproximaciones de 1, 2 y alto orden.\nError local y error global.\nProblemas de valor inicial en ecuaciones diferenciales ordinarias.\nRelación entre la teoría de EDO y aproximaciones numéricas(existencia y unicidad, funciones lipchitz continuas)."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-4",
+    "href": "modSimI.html#capitulo-4",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\n\nMétodos de un solo paso.\nMétodo de Euler explicito e implícito.\nMétodos en series de Taylor.\nMétodos Runge-Kuta.\nMétodos lineales multipaso\nFamilias Adams-Bashforth, Adams-Boulton y Predictor-corrector\nProgramación numérica de los métodos para PVI."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-5",
+    "href": "modSimI.html#capitulo-5",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 5",
+    "text": "Capitulo 5\n\nCero estabilidad en métodos de un solo paso.\nZero estabilidad en métodos multipaso.\nAbsoluta estabilidad:\n\nRegiones de absoluta estabilidad."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-6",
+    "href": "modSimI.html#capitulo-6",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 6",
+    "text": "Capitulo 6\n\nEcuaciones diferenciales tipo stiff.\nDificultades numéricas asociadas.\nMétodos numéricos A-estabilidad y L-estabilidad."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-7",
+    "href": "modSimI.html#capitulo-7",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 7",
+    "text": "Capitulo 7\n\nSimulación de sistemas de ecuaciones diferenciales.\nMétodos de un solo paso.\nMétodos multipaso (implícitos-explícitos).\nSimulación en problemas reales."
   },
   {
     "objectID": "analisisycomputacion.html",
@@ -112,6 +161,13 @@
     "text": "Capitulo 7\n\nAutovalores de una matriz.\nTeorema de los círculos de Gershgorin Algoritmo QR (soluciones reales).\nMétodo de las potencias."
   },
   {
+    "objectID": "ALC.html#bibiolografías",
+    "href": "ALC.html#bibiolografías",
+    "title": "Algebra lineal computacional",
+    "section": "Bibiolografías",
+    "text": "Bibiolografías\n\nMeyer, c. d. (2000). matrix analysis and applied linear algebra (vol. 2).\nSiam. pulino, p. (2012). algebra linear e suas aplicaccoes: notas de aula.\nTrefethen, l. n., & bau iii, d. (1997). Numerical linear algebra (vol. 50).\nSiam.|demmel, j. w. (1997). applied numerical linear algebra. society for industrial and applied mathematics."
+  },
+  {
     "objectID": "postsProy/post2/index.html",
     "href": "postsProy/post2/index.html",
     "title": "Prueba 2",
@@ -133,60 +189,11 @@
     "text": "Los horarios de atención para el semestre 2023-1 será de lunes a viernes de 2:00 p.m. a 4:00 p.m. En dicho horario se encontrará un monitor.\nSi se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente.\n\n\n\n\n\n\n\n\n\n\n\nHora\nLunes\nMartes\nMiercoles\nJueves\nViernes\n\n\n\n\n2:00 p.m - 4:00 p.m\nJulian Soto\nAndrés Guaca\nJuan José Ruiz\nJulian Soto\nJulian Soto"
   },
   {
-    "objectID": "modSimI.html",
-    "href": "modSimI.html",
-    "title": "Modelización y simulación I",
+    "objectID": "semilleros.html",
+    "href": "semilleros.html",
+    "title": "Semilleros",
     "section": "",
-    "text": "La modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-1",
-    "href": "modSimI.html#capitulo-1",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 1",
-    "text": "Capitulo 1\nIntroducción al modelización, ¿Qué es modelización matemática? Principios de conservación y balance. Análisis dimensional. Escaling."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-2",
-    "href": "modSimI.html#capitulo-2",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 2",
-    "text": "Capitulo 2\nModelos continuos, Ejemplos de modelos en ecuaciones diferenciales ordinarias. Modelos de crecimiento exponencial (crecimiento radiactivo, crecimiento de bacterias). Modelo logístico (modelos con capacidad de carga). Modelos de competencia de especies (depredador presa). Modelos de cooperación. Modelos en equilibrio. Modelos amortiguados."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-3",
-    "href": "modSimI.html#capitulo-3",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 3",
-    "text": "Capitulo 3\nSimulación numérica, diferencias finitas, aproximaciones de 1, 2 y alto orden. Error local, Error global. Problemas de valor inicial en ecuaciones diferenciales ordinarias. Relación entre la teoría de EDO y aproximaciones numéricas (existencia y unicidad, funciones lipchitz continuas)."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-4",
-    "href": "modSimI.html#capitulo-4",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 4",
-    "text": "Capitulo 4\nMétodos de un solo paso, (Método de Euler explicito, implícito). Métodos en series de Taylor, Métodos Runge-Kuta. Métodos lineales multipaso, Familias Adams-Bashforth, Adams-Boulton, Predictor-corrector. Programación numérica de los métodos para PVI."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-5",
-    "href": "modSimI.html#capitulo-5",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 5",
-    "text": "Capitulo 5\nCero estabilidad en métodos de un solo paso. Zero estabilidad en métodos multipaso. Absoluta estabilidad, regiones de absoluta estabilidad."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-6",
-    "href": "modSimI.html#capitulo-6",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 6",
-    "text": "Capitulo 6\nEcuaciones diferenciales tipo stiff. dificultades numéricas asociadas. Métodos numéricos A-estabilidad, L-estabilidad."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-7",
-    "href": "modSimI.html#capitulo-7",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 7",
-    "text": "Capitulo 7\nSimulación de sistemas de ecuaciones diferenciales. Métodos de un solo paso, métodos multipaso (implícitos-explícitos). Simulación en problemas reales."
+    "text": "Semillero de ejemplo 1\nProfesor: Nombre 1.\nContacto: 1112223334\nDescripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "objectID": "avancesProyectos.html",
@@ -222,6 +229,13 @@
     "title": "Introducción a la modelización",
     "section": "Tercer parte:",
     "text": "Tercer parte:\n\nIntroducción a la modelizacion experimental\nGrafos como modelos:\n\nDescribiendo grafos\nModelos con grafos\nUsando modelos de grafos para solucionar problemas"
+  },
+  {
+    "objectID": "introModelizacion.html#bibliografía",
+    "href": "introModelizacion.html#bibliografía",
+    "title": "Introducción a la modelización",
+    "section": "Bibliografía",
+    "text": "Bibliografía\n\ngiordano, f., fox, w. p., & horton, s. (2013). a first course in mathematical modeling. nelson education.\napostol, t. m. (2007). calculus, volume i (vol. 1). john wiley & sons.\nnotas de clase."
   },
   {
     "objectID": "servicios.html",
@@ -319,34 +333,13 @@
     "href": "modSimII.html#capitulo-5",
     "title": "Modelización y simulación II",
     "section": "Capitulo 5",
-    "text": "Capitulo 5\nMetodos numericos para ecuaciones diferenciales hiperbólicas, Metodo de las lineas, Metodos de segundo orden en el espacio. Análisis de Von-Neuwman. Condicion CFL. Sistemas hiperbolicos. Sistemas hiperbolicos lineales. Metodos para sistemas hiperbolicos. Aplicaciones reales."
+    "text": "Capitulo 5\n\nMetodos numericos para ecuaciones diferenciales hiperbólicas.\nMetodo de las lineas.\nMetodos de segundo orden en el espacio.\nAnálisis de Von-Neuwman.\nCondicion CFL.\nSistemas hiperbolicos.\nSistemas hiperbolicos lineales.\nMetodos para sistemas hiperbolicos.\nAplicaciones reales."
   },
   {
     "objectID": "modSimII.html#capitulo-6",
     "href": "modSimII.html#capitulo-6",
     "title": "Modelización y simulación II",
     "section": "Capitulo 6",
-    "text": "Capitulo 6\nMetodos para ecuaciones elípticas. Discretizacion y condiciones acotas. Principio del maximo, Estimaciones del error global. Operador splitting. Aplicaciones reales."
-  },
-  {
-    "objectID": "introModelizacion.html#bibliografía",
-    "href": "introModelizacion.html#bibliografía",
-    "title": "Introducción a la modelización",
-    "section": "Bibliografía",
-    "text": "Bibliografía\n\ngiordano, f., fox, w. p., & horton, s. (2013). a first course in mathematical modeling. nelson education.\napostol, t. m. (2007). calculus, volume i (vol. 1). john wiley & sons.\nnotas de clase."
-  },
-  {
-    "objectID": "ALC.html#bibiolografías",
-    "href": "ALC.html#bibiolografías",
-    "title": "Algebra lineal computacional",
-    "section": "Bibiolografías",
-    "text": "Bibiolografías\n\nMeyer, c. d. (2000). matrix analysis and applied linear algebra (vol. 2).\nSiam. pulino, p. (2012). algebra linear e suas aplicaccoes: notas de aula.\nTrefethen, l. n., & bau iii, d. (1997). Numerical linear algebra (vol. 50).\nSiam.|demmel, j. w. (1997). applied numerical linear algebra. society for industrial and applied mathematics."
-  },
-  {
-    "objectID": "semilleros.html",
-    "href": "semilleros.html",
-    "title": "Semilleros",
-    "section": "",
-    "text": "Semillero de ejemplo 1\nProfesor: Nombre 1.\nContacto: 1112223334\nDescripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "text": "Capitulo 6\n\nMetodos para ecuaciones elípticas.\nDiscretizacion y condiciones acotas.\nPrincipio del maximo y estimaciones del error global.\nOperador splitting.\nAplicaciones reales."
   }
 ]
