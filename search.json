@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "modSimI.html",
-    "href": "modSimI.html",
-    "title": "Modelización y simulación I",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "¿Quienes somos?",
     "section": "",
-    "text": "La modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-1",
-    "href": "modSimI.html#capitulo-1",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 1",
-    "text": "Capitulo 1\n\nIntroducción al modelización.\n¿Qué es modelización matemática?\nPrincipios de conservación y balance.\nAnálisis dimensional.\nEscaling."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-2",
-    "href": "modSimI.html#capitulo-2",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 2",
-    "text": "Capitulo 2\n\nModelos continuos.\nEjemplos de modelos en ecuaciones diferenciales ordinarias:\n\nModelos de crecimiento exponencial (crecimiento radiactivo, crecimiento de bacterias).\nModelo logístico (modelos con capacidad de carga).\nModelos de competencia de especies (depredador presa).\nModelos de cooperación. Modelos en equilibrio.\nModelos amortiguados."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-3",
-    "href": "modSimI.html#capitulo-3",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 3",
-    "text": "Capitulo 3\n\nSimulación numérica.\nDiferencias finitas.\nAproximaciones de 1, 2 y alto orden.\nError local y error global.\nProblemas de valor inicial en ecuaciones diferenciales ordinarias.\nRelación entre la teoría de EDO y aproximaciones numéricas(existencia y unicidad, funciones lipchitz continuas)."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-4",
-    "href": "modSimI.html#capitulo-4",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 4",
-    "text": "Capitulo 4\n\nMétodos de un solo paso.\nMétodo de Euler explicito e implícito.\nMétodos en series de Taylor.\nMétodos Runge-Kuta.\nMétodos lineales multipaso\nFamilias Adams-Bashforth, Adams-Boulton y Predictor-corrector\nProgramación numérica de los métodos para PVI."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-5",
-    "href": "modSimI.html#capitulo-5",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 5",
-    "text": "Capitulo 5\n\nCero estabilidad en métodos de un solo paso.\nZero estabilidad en métodos multipaso.\nAbsoluta estabilidad:\n\nRegiones de absoluta estabilidad."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-6",
-    "href": "modSimI.html#capitulo-6",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 6",
-    "text": "Capitulo 6\n\nEcuaciones diferenciales tipo stiff.\nDificultades numéricas asociadas.\nMétodos numéricos A-estabilidad y L-estabilidad."
-  },
-  {
-    "objectID": "modSimI.html#capitulo-7",
-    "href": "modSimI.html#capitulo-7",
-    "title": "Modelización y simulación I",
-    "section": "Capitulo 7",
-    "text": "Capitulo 7\n\nSimulación de sistemas de ecuaciones diferenciales.\nMétodos de un solo paso.\nMétodos multipaso (implícitos-explícitos).\nSimulación en problemas reales."
+    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas."
   },
   {
     "objectID": "analisisycomputacion.html",
@@ -187,6 +138,62 @@
     "title": "Horarios de atención",
     "section": "",
     "text": "Los horarios de atención para el semestre 2023-1 será de lunes a viernes de 2:00 p.m. a 4:00 p.m. En dicho horario se encontrará un monitor.\nSi se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente.\n\n\n\n\n\n\n\n\n\n\n\nHora\nLunes\nMartes\nMiercoles\nJueves\nViernes\n\n\n\n\n2:00 p.m - 4:00 p.m\nJulian Soto\nAndrés Guaca\nJuan José Ruiz\nJulian Soto\nJulian Soto"
+  },
+  {
+    "objectID": "modSimI.html",
+    "href": "modSimI.html",
+    "title": "Modelización y simulación I",
+    "section": "",
+    "text": "La modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-1",
+    "href": "modSimI.html#capitulo-1",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\n\nIntroducción al modelización.\n¿Qué es modelización matemática?\nPrincipios de conservación y balance.\nAnálisis dimensional.\nEscaling."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-2",
+    "href": "modSimI.html#capitulo-2",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\n\nModelos continuos.\nEjemplos de modelos en ecuaciones diferenciales ordinarias:\n\nModelos de crecimiento exponencial (crecimiento radiactivo, crecimiento de bacterias).\nModelo logístico (modelos con capacidad de carga).\nModelos de competencia de especies (depredador presa).\nModelos de cooperación. Modelos en equilibrio.\nModelos amortiguados."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-3",
+    "href": "modSimI.html#capitulo-3",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\n\nSimulación numérica.\nDiferencias finitas.\nAproximaciones de 1, 2 y alto orden.\nError local y error global.\nProblemas de valor inicial en ecuaciones diferenciales ordinarias.\nRelación entre la teoría de EDO y aproximaciones numéricas(existencia y unicidad, funciones lipchitz continuas)."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-4",
+    "href": "modSimI.html#capitulo-4",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\n\nMétodos de un solo paso.\nMétodo de Euler explicito e implícito.\nMétodos en series de Taylor.\nMétodos Runge-Kuta.\nMétodos lineales multipaso\nFamilias Adams-Bashforth, Adams-Boulton y Predictor-corrector\nProgramación numérica de los métodos para PVI."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-5",
+    "href": "modSimI.html#capitulo-5",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 5",
+    "text": "Capitulo 5\n\nCero estabilidad en métodos de un solo paso.\nZero estabilidad en métodos multipaso.\nAbsoluta estabilidad:\n\nRegiones de absoluta estabilidad."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-6",
+    "href": "modSimI.html#capitulo-6",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 6",
+    "text": "Capitulo 6\n\nEcuaciones diferenciales tipo stiff.\nDificultades numéricas asociadas.\nMétodos numéricos A-estabilidad y L-estabilidad."
+  },
+  {
+    "objectID": "modSimI.html#capitulo-7",
+    "href": "modSimI.html#capitulo-7",
+    "title": "Modelización y simulación I",
+    "section": "Capitulo 7",
+    "text": "Capitulo 7\n\nSimulación de sistemas de ecuaciones diferenciales.\nMétodos de un solo paso.\nMétodos multipaso (implícitos-explícitos).\nSimulación en problemas reales."
   },
   {
     "objectID": "semilleros.html",
