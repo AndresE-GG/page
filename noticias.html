@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Laboratorio de estadística y matemáticas aplicadas - Introducción a la modelización</title>
+<title>Laboratorio de estadística y matemáticas aplicadas - Noticias</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,6 +24,8 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -54,7 +56,37 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: [],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -64,7 +96,7 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Introducción a la modelización</h1>
+      <h1 class="quarto-secondary-nav-title">Noticias</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -72,7 +104,22 @@ ul.task-list{list-style: none;}
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-right">
+      <h1 class="title d-none d-lg-block">Noticias</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
@@ -117,15 +164,15 @@ ul.task-list{list-style: none;}
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Asignaturas</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">Asignaturas</a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./introModelizacion.html" class="sidebar-item-text sidebar-link active">Introducción a la modelización</a>
+  <a href="./introModelizacion.html" class="sidebar-item-text sidebar-link">Introducción a la modelización</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -192,7 +239,7 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./noticias.html" class="sidebar-item-text sidebar-link">Noticias</a>
+  <a href="./noticias.html" class="sidebar-item-text sidebar-link active">Noticias</a>
   </div>
 </li>
         <li class="px-0"><hr class="sidebar-divider hi "></li>
@@ -206,86 +253,47 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#descripción-de-la-materia" id="toc-descripción-de-la-materia" class="nav-link active" data-scroll-target="#descripción-de-la-materia">Descripción de la materia</a></li>
-  <li><a href="#primera-parte" id="toc-primera-parte" class="nav-link" data-scroll-target="#primera-parte">Primera parte:</a></li>
-  <li><a href="#segunda-parte" id="toc-segunda-parte" class="nav-link" data-scroll-target="#segunda-parte">Segunda parte:</a></li>
-  <li><a href="#tercer-parte" id="toc-tercer-parte" class="nav-link" data-scroll-target="#tercer-parte">Tercer parte:</a></li>
-  <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">Bibliografía</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title d-none d-lg-block">Introducción a la modelización</h1>
-</div>
+<main class="content quarto-banner-title-block column-page-right" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
 
-    
-    
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
   </div>
-  
+</div>
+<div class="list grid quarto-listing-cols-3">
 
-</header>
-
-<section id="descripción-de-la-materia" class="level2">
-<h2 class="anchored" data-anchor-id="descripción-de-la-materia">Descripción de la materia</h2>
-<p>Introducción a la modelización es una asignatura de primer semestre de la carrera de matemáticas aplicadas, en ella se busca motivar a los estudiantes para que realicen una simplificación de algún fenómeno real, identificando las principales variables y las relaciones entre ellas Con este propósito la asignatura se ha divido en tres partes. En la primer parte se da una muy breve introducción a las ecuaciones en diferencias y sistemas dinámicos de ecuaciones en diferencias. En la segunda se presentan algunos modelos en donde sus variables están proporcionalmente relaciones, también se hacen ajustes polinomiales para los datos de un experimento. En la última parte se presenta la teoría de grafos como una herramienta descriptiva para dar una interpretación de algunos fenómenos concretos del mundo real.</p>
-</section>
-<section id="primera-parte" class="level2">
-<h2 class="anchored" data-anchor-id="primera-parte">Primera parte:</h2>
-<ul>
-<li>Modelando el cambio</li>
-<li>Ecuaciones en diferencias</li>
-<li>Solución a sistemas dinámico</li>
-<li>Sistemas de diferencias.</li>
-</ul>
-</section>
-<section id="segunda-parte" class="level2">
-<h2 class="anchored" data-anchor-id="segunda-parte">Segunda parte:</h2>
-<ul>
-<li>Modelos matemáticos:
-<ul>
-<li>Modelos usando proporcionalidad</li>
-<li>Modelos usando similaridad geométrica</li>
-<li>Ajustar gráficamente modelos a datos</li>
-</ul></li>
-<li>Métodos analíticos para ajustar datos, Aplicando el criterio de mínimos cuadrados.</li>
-</ul>
-</section>
-<section id="tercer-parte" class="level2">
-<h2 class="anchored" data-anchor-id="tercer-parte">Tercer parte:</h2>
-<ul>
-<li>Introducción a la modelizacion experimental</li>
-<li>Grafos como modelos:
-<ul>
-<li>Describiendo grafos</li>
-<li>Modelos con grafos</li>
-<li>Usando modelos de grafos para solucionar problemas</li>
-</ul></li>
-</ul>
-</section>
-<section id="bibliografía" class="level2">
-<h2 class="anchored" data-anchor-id="bibliografía">Bibliografía</h2>
-<ul>
-<li>giordano, f., fox, w. p., &amp; horton, s. (2013). a first course in mathematical modeling. nelson education.</li>
-<li>apostol, t. m. (2007). calculus, volume i (vol.&nbsp;1). john wiley &amp; sons.</li>
-<li>notas de clase.</li>
-</ul>
-
-
-</section>
-
-</main> <!-- /main -->
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
