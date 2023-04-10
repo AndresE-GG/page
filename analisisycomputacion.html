@@ -117,25 +117,23 @@ ul.task-list{list-style: none;}
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Asignaturas</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">Asignaturas</a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./introModelizacion.html" class="sidebar-item-text sidebar-link">Introducción a la modelización</a>
   </div>
 </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./analisisycomputacion.html" class="sidebar-item-text sidebar-link active">Análisis y computación numérica</a>
-  </div>
-</li>
+  ACN.qmd
+  </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ALC.html" class="sidebar-item-text sidebar-link">Algebra lineal computacional</a>
+  <a href="./ALC.html" class="sidebar-item-text sidebar-link">Álgebra lineal computacional</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -159,25 +157,17 @@ ul.task-list{list-style: none;}
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./links/python.html" class="sidebar-item-text sidebar-link">Links para Python</a>
-  </div>
-</li>
+  links/python.qmd
+  </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./links/r.html" class="sidebar-item-text sidebar-link">Links para R</a>
-  </div>
-</li>
+  links/r.qmd
+  </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./links/julia.html" class="sidebar-item-text sidebar-link">Links para Julia</a>
-  </div>
-</li>
+  links/julia.qmd
+  </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./links/quarto.html" class="sidebar-item-text sidebar-link">Links para Quarto</a>
-  </div>
-</li>
+  links/quarto.qmd
+  </li>
       </ul>
   </li>
         <li class="sidebar-item">
@@ -240,6 +230,13 @@ ul.task-list{list-style: none;}
 
 </header>
 
+<style>
+    img {
+        display: block;
+        margin: auto;
+    }
+</style>
+<p><img src="ACN.png" alt="" width="500" height="300"></p>
 <section id="descripción-de-la-asignatura" class="level2">
 <h2 class="anchored" data-anchor-id="descripción-de-la-asignatura">Descripción de la asignatura</h2>
 <p>Los métodos numéricos es una rama de las matemáticas aplicadas que se encarga de aproximar la solución de problemas complejos usando algoritmos, los cuales en su mayoría se puede implementar computacionalmente a través de lenguajes formales de programación, como phython, matlab, c++, fortran, entre otros. debido a la diversidad de los métodos numéricos existentes, en este curso, se pretende enseñar los principios fundamentales de esta rama, como lo son el análisis del error, convergencia, algoritmos iterativos y directos. para alcanzar este objetivo se pretende estudiar problemas generales fácilmente implementables en la ingeniería y rápidamente traducibles en un lenguaje de programación. adicionalmente, esperamos mostrar como los métodos numéricos, bien implementados en un lenguaje de programación, resultan un herramienta eficaz y eficiente para aproximar soluciones de problemas complejos heredados de la ingeniería y las matemáticas.</p>
