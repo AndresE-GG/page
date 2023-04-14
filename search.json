@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "¿Quienes somos?",
     "section": "",
-    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\n\nObjetivo general\n\nFomentar el aprendizaje de la comunidad de la Pontificia Universidad Javeriana Cali en el área de las matemáticas y estadística.\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.\n\n\n\n\nStaff:\n\nMonitores:\n\nJulián Soto\nJuan José Ruíz\nAndrés Guaca"
+    "text": "El Laboratorio de Estadística y Matemáticas Aplicadas (LEMA) es un espacio abierto para los estudiantes, colaboradores y docentes de la Pontificia Universidad Javeriana Cali en el que podrán hacer uso para el aprendizaje, la investigación y aplicación en el área de la matemática, especialmente en el campo de métodos númericos, y en el área de estadística y análisis de datos.\n\n\nObjetivo general\n\nFomentar el aprendizaje y la investigación de la comunidad de la Pontificia Universidad Javeriana Cali en las áreas de computación científica, matemáticas computacionales y estadística.\n\n\n\n\nObjetivos específicos\n\nAyudar a los estudiantes a comprender conceptos de métodos númericos y análisis de datos.\nBrindar acceso a dispositivos, software para el aprendizaje y aplicación en diferentes áreas de la matemática y la estadística.\nProporcionar un ambiente práctico y colaborativo para que los estudiantes puedan experimentar con diversas técnicas matemáticas y estadísticas.\n\n\n\n\n\nStaff:\n\nMonitores:\n\n\nJulián Soto\nJuan José Ruíz\nAndrés Guaca"
   },
   {
     "objectID": "analisisycomputacion.html",
@@ -135,9 +135,9 @@
   {
     "objectID": "horarios.html",
     "href": "horarios.html",
-    "title": "Horarios de atención",
+    "title": "Horarios de atención a estudiantes",
     "section": "",
-    "text": "Si se desea hacer uso del laboratorio se tendrá que hacer una solicitud a través de la secretaría del Departamento de Matemáticas y Ciencias Naturales o a través del coordinador Abel Álvarez Bustos. Para dicho ingreso se necesitará el acompañamiento de un docente.\n\n\n\n\n\n\n\n\n\n\n\nHora\nLunes\nMartes\nMiercoles\nJueves\nViernes\n\n\n\n\n2:00 p.m - 4:00 p.m\nJulian Soto\nAndrés Guaca\nJuan José Ruiz\nJulian Soto\nJulian Soto"
+    "text": "Los horarios de atención para estudiantes en el semestre 2023-1 será de lunes a viernes de 2:00 p.m. a 4:00 p.m. En dicho horario se encontrará un monitor.\nSi se desea hacer uso del laboratorio para estudiantes de matemáticas, biología y docentes del departamento de ciencias naturales y matemáticas en otro horario se tendrá que hacer una solicitud a través del link de reservas.\n\n\n\n\n\n\n\n\n\n\n\nHora\nLunes\nMartes\nMiercoles\nJueves\nViernes\n\n\n\n\n2:00 p.m - 4:00 p.m\nJulian Soto\nAndrés Guaca\nJuan José Ruiz\nJulian Soto\nJulian Soto"
   },
   {
     "objectID": "modSimI.html",
@@ -200,14 +200,14 @@
     "href": "semilleros.html",
     "title": "Semilleros",
     "section": "",
-    "text": "Profesor: Nombre 1.\nContacto: 1112223334\nDescripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "text": "Semillero de ejemplo 1\n\nProfesor: Nombre 1.\nContacto: 1112223334\nDescripcion: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "objectID": "avancesProyectos.html",
     "href": "avancesProyectos.html",
     "title": "Avances de proyectos",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutor ficticio 2\n\n\nMar 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAutor ficticio 1\n\n\nMar 22, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPrueba 2\n\n\n\n\n\n\nAutor ficticio 2\n\n\nMar 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrueba 1\n\n\n\n\n\n\nAutor ficticio 1\n\n\nMar 22, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "introModelizacion.html",
@@ -452,21 +452,21 @@
     "href": "links/python.html",
     "title": "Links para Python",
     "section": "",
-    "text": "Curso en español de Codecademy: codecademy.com/learn/learn-python\nCurso de para principiantes en Coursera: coursera.org/learn/python\nCurso de Google para principiantes: developers.google.com/edu/python\n\nCursos de las librerías mas utilizadas en Python:\n\nCurso de NumPy de DataCamp: datacamp.com/courses/intro-to-python-for-data-science\nCurso de NumPy y Pandas en español de Platzi: platzi.com/cursos/data-python/\nCurso de Matplotlib en español de Coursera: coursera.org/learn/python-plotting"
+    "text": "Página oficial de Python: python.org\n\nCurso en español de Codecademy: codecademy.com/learn/learn-python\nCurso de para principiantes en Coursera: coursera.org/learn/python\nCurso de Google para principiantes: developers.google.com/edu/python\n\nCursos de las librerías mas utilizadas en Python:\n\nCurso de NumPy de DataCamp: datacamp.com/courses/intro-to-python-for-data-science\nCurso de NumPy y Pandas en español de Platzi: platzi.com/cursos/data-python/\nCurso de Matplotlib en español de Coursera: coursera.org/learn/python-plotting"
   },
   {
     "objectID": "links/r.html",
     "href": "links/r.html",
     "title": "Links para R",
     "section": "",
-    "text": "Curso en español de Coursera: coursera.org/learn/r-programming\nCurso básico de DataCamp: datacamp.com/courses/free-introduction-to-r"
+    "text": "Pagina oficial de R: rstudio.com\n\nCurso en español de Coursera: coursera.org/learn/r-programming\nCurso básico de DataCamp: datacamp.com/courses/free-introduction-to-r"
   },
   {
     "objectID": "links/julia.html",
     "href": "links/julia.html",
     "title": "Links para Julia",
     "section": "",
-    "text": "Curso Introducción en DataCamp: datacamp.com/courses/introduction-to-julia\nCurso de Codecademy: codecademy.com/learn/learn-julia"
+    "text": "Pagina oficial de Julia: julialang.org\n\nCurso Introducción en DataCamp: datacamp.com/courses/introduction-to-julia\nCurso de Codecademy: codecademy.com/learn/learn-julia"
   },
   {
     "objectID": "links/quarto.html",
@@ -474,5 +474,131 @@
     "title": "Links para Quarto",
     "section": "",
     "text": "Página oficial de Quarto: quarto.org"
+  },
+  {
+    "objectID": "linksasig.html",
+    "href": "linksasig.html",
+    "title": "Asignaturas que se benefician del laboratorio",
+    "section": "",
+    "text": "En LEMA, se ha dispuesto que los monitores de las asignaturas del Departamento de Matemáticas y Ciencias Naturales estarán disponibles para resolver las dudas de los estudiantes que tengan respecto a los temas abordados asignaturas del área de métodos numéricos, modelización y estadística. Esta iniciativa busca brindar un apoyo adicional a los estudiantes en su proceso de aprendizaje y fomentar un ambiente de colaboración y trabajo en equipo. Los monitores, quienes son estudiantes, estarán disponibles durante los horarios establecidos para cada asignatura en el laboratorio. Los estudiantes pueden acudir a ellos para aclarar dudas, recibir explicaciones adicionales sobre los temas vistos en clase o recibir apoyo para resolver ejercicios o problemas específicos. A continuación, se presenta la lista de asignaturas en las cuales los monitores podrán brindar asesoría.\n\nIntroducción a la modelización.\nAnálisis y computación numérica.\nÁlgebra lineal computacional.\nModelización y simulación I.\nModelización y simulación II.\nTeoria de probabilidades.\nEstadística aplicada."
+  },
+  {
+    "objectID": "linksasig.html#introducción-a-la-modelización.",
+    "href": "linksasig.html#introducción-a-la-modelización.",
+    "title": "Asignaturas que se benefician del laboratorio",
+    "section": "Introducción a la modelización.",
+    "text": "Introducción a la modelización.\nIntroducción a la modelización es una asignatura de primer semestre de la carrera de matemáticas aplicadas, en ella se busca motivar a los estudiantes para que realicen una simplificación de algún fenómeno real, identificando las principales variables y las relaciones entre ellas Con este propósito la asignatura se ha divido en tres partes. En la primer parte se da una muy breve introducción a las ecuaciones en diferencias y sistemas dinámicos de ecuaciones en diferencias. En la segunda se presentan algunos modelos en donde sus variables están proporcionalmente relaciones, también se hacen ajustes polinomiales para los datos de un experimento. En la última parte se presenta la teoría de grafos como una herramienta descriptiva para dar una interpretación de algunos fenómenos concretos del mundo real."
+  },
+  {
+    "objectID": "linksasig.html#álgebra-lineal-computacional.",
+    "href": "linksasig.html#álgebra-lineal-computacional.",
+    "title": "Asignaturas que se benefician del laboratorio",
+    "section": "Álgebra lineal computacional.",
+    "text": "Álgebra lineal computacional.\nEn la actualidad los problemas que estudia la matemática aplicada tiene un gran componente computacional, esto requiere un buen entendimiento e interpretación adecuada de los diferentes algoritmos que se usan para resolver problemas. En especial los algoritmos donde se usan muchas variables y/o iterativos para tener una apropiada interpretación de los resultados y que estos reflejen la realidad de los mismos. Es por es este motivo que este curso pretende dar algunas competencias computacionales y analíticas para el estudio del álgebra matricial computacional. En este curso se presentan los algoritmos y la teoría para resolver sistemas de ecuaciones lineales, debido a que estas están presentes en casi toda aplicación de modelos matemáticos."
+  },
+  {
+    "objectID": "linksasig.html#modelización-y-simulación-i.",
+    "href": "linksasig.html#modelización-y-simulación-i.",
+    "title": "Asignaturas que se benefician del laboratorio",
+    "section": "Modelización y simulación I.",
+    "text": "Modelización y simulación I.\nLa modelización matemática es un rama principal en las matemáticas aplicadas, este curso va dirigido a estudiantes de matemática aplicada e ingeniera y pretende dar las principales herramientas para modelizar problemas donde involucren razones de cambio. Adicionalmente, pretendemos presentar algunas herramientas numéricas, basadas en diferencias finitas, para aproximar estos sistemas, mostrando algunos principios de estabilidad. De esta manera deseamos que es estudiante adquiera la habilidad de esquematizar un problema real en un sistema de ecuaciones diferenciales ordinarias, para que posteriormente simule e interprete las aproximaciones en un contexto dado. Adquiriendo asÍ, las capacidades simular problemas reales en diferentes contextos de las ciencias y adquirir la competencia de trabajar en equipos interdisciplinares, convirtiendo las matemática aplicadas como un laboratorio del mundo real."
+  },
+  {
+    "objectID": "linksasig.html#modelización-y-simulación-ii.",
+    "href": "linksasig.html#modelización-y-simulación-ii.",
+    "title": "Asignaturas que se benefician del laboratorio",
+    "section": "Modelización y simulación II.",
+    "text": "Modelización y simulación II.\nLas ecuaciones diferenciales parciales son de vital importancia para modelar muchos fenómenos físicos, biológicos, epidemiológicos, entre otros. Por tal motivo se hace indispensable en un programa de matemática aplicada ver una introducción de los diferentes fenómenos que modelan este tipo de ecuaciones y algunas herramientas matemáticas para la simulación de los mismos."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Programas instalados en el laboratorio",
+    "section": "",
+    "text": "Anaconda\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulia\n\n\n\n\n\n\n\n\n\n\n\n\n\nJupyter\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-studio\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpyder\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Studio Code\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "imagelen/python/index.html",
+    "href": "imagelen/python/index.html",
+    "title": "Python",
+    "section": "",
+    "text": "Página oficial de Python: python.org\n\nCurso en español de Codecademy: codecademy.com/learn/learn-python\nCurso de para principiantes en Coursera: coursera.org/learn/python\nCurso de Google para principiantes: developers.google.com/edu/python\n\nCursos de las librerías mas utilizadas en Python:\n\nCurso de NumPy de DataCamp: datacamp.com/courses/intro-to-python-for-data-science\nCurso de NumPy y Pandas en español de Platzi: platzi.com/cursos/data-python/\nCurso de Matplotlib en español de Coursera: coursera.org/learn/python-plotting"
+  },
+  {
+    "objectID": "TP.html",
+    "href": "TP.html",
+    "title": "Teoria de probabilidades",
+    "section": "",
+    "text": "El curso promueve el pensamiento estadístico mediante el conocimiento de métodos actuales y frecuentemente utilizados en el análisis de datos, a través de la observación de situaciones problemáticas propio de su quehacer profesional, facilitando la toma de decisiones con base en la evidencia. Esto facilita el abordaje de conceptos de estadística descriptiva, variable aleatoria, su caracterización y el cálculo de probabilidades, tomando sus bases como herramienta útil en la toma de decisiones para contar con mayor seguridad en la propuesta de soluciones. Se propone el desarrollo de un proyecto que desarrolle competencias para el análisis de la información, la organización y comunicación. Dicha actividad involucra problemas que requieren manejo de bases de datos, tópicos estadísticos y herramienta computacional"
+  },
+  {
+    "objectID": "TP.html#capitulo-1",
+    "href": "TP.html#capitulo-1",
+    "title": "Teoria de probabilidades",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\n\nClasificación de los datos, escalas de medición.\nTablas de frecuencia univariada.\nTablas de frecuencia bivariado, frecuencia conjunta, marginal y condicional.\nRepresentación gráfica univariada y bivariada: Histogramas, gráfico de barras, Ojivas.\nIndicadores estadísticos: Centro, dispersión, posición y forma.\nDiagrama de caja y alambres, diagrama de tallo y hojas."
+  },
+  {
+    "objectID": "TP.html#capitulo-2",
+    "href": "TP.html#capitulo-2",
+    "title": "Teoria de probabilidades",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\n\nIntroducción de la probabilidad, experimentos, espacio muestral y eventos.\nAxiomas de probabilidad.\nProbabilidad de eventos simples, compuestos, condicionados y propiedades.\nTeorema de Bayes"
+  },
+  {
+    "objectID": "TP.html#capitulo-3",
+    "href": "TP.html#capitulo-3",
+    "title": "Teoria de probabilidades",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\n\nVariable aleatoria Discreta, función de probabilidad, función de distribución, valor esperado y varianza.\nVariable aleatoria continua, función de densidad, función de distribución, valor esperado y varianza.\nDistribución de probabilidad conjunta en variables discretas y continuas: covarianza, coeficiente de correlación lineal.\nMedia y varianza de la combinación lineal entre variables aleatorias."
+  },
+  {
+    "objectID": "TP.html#capitulo-4",
+    "href": "TP.html#capitulo-4",
+    "title": "Teoria de probabilidades",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\n\nDistribuciones discretas: Uniforme, Bernoulli, Binomial, Hipergeométrico, Poisson.\nDistribuciones continuas de probabilidad: Uniforme, Normal,Gamma, Exponencial y Weibull.\nAplicaciones de los modelos discretos y continuos."
+  },
+  {
+    "objectID": "EA.html",
+    "href": "EA.html",
+    "title": "Estadistica aplicada",
+    "section": "",
+    "text": "El objetivo principal de este curso es que el estudiante conozca el ciclo completo de los datos, a través de métodos estadísticos que se emplean en el análisis de datos, haciendo uso de ejemplos y situaciones actuales en su quehacer profesional, que permiten la toma de decisiones informadas. En el curso se abordan los fundamentos teóricos y computacionales de la inferencia estadística usando estimación puntual, intervalos de confianza y pruebas de hipótesis como también la estimación de valores de una variable de respuesta y de valores futuros con el modelo de regresión lineal simple y el análisis de varianza para la comparación de media en un diseño de experimentos."
+  },
+  {
+    "objectID": "EA.html#capitulo-1",
+    "href": "EA.html#capitulo-1",
+    "title": "Estadistica aplicada",
+    "section": "Capitulo 1",
+    "text": "Capitulo 1\n\nIntroducción al muestreo y tipos de muestreo.\nEstimador puntual y sus propiedades.\nValor esperado y varianza de la media muestral y de la proporción muestral.\nDistribución de la media muestral y de la proporción muestral: Teorema del límite central.\nDistribución de la diferencia de medias muestral y de la diferencia de proporciones muestrales.\nDistribución de la varianza muestral y del cociente de varianzas."
+  },
+  {
+    "objectID": "EA.html#capitulo-2",
+    "href": "EA.html#capitulo-2",
+    "title": "Estadistica aplicada",
+    "section": "Capitulo 2",
+    "text": "Capitulo 2\n\nLímites de confianza, nivel de confianza, error de estimación.\nIntervalo de confianza para la estimación de la media.\nIntervalo de confianza para la estimación de la proporción y varianza en una población.\nTamaño de muestra para la estimar la media y la proporción por intervalo de confianza.\nComparación de dos poblaciones a partir de sus medias, proporciones y varianzas usando intervalos de confianza."
+  },
+  {
+    "objectID": "EA.html#capitulo-3",
+    "href": "EA.html#capitulo-3",
+    "title": "Estadistica aplicada",
+    "section": "Capitulo 3",
+    "text": "Capitulo 3\n\nIntroducción a la prueba de hipótesis: Hipótesis nula y alternativa, nivel de significancia, errores tipo I y tipo II, potencia.\nPrueba de hipótesis para el parámetro de una población: media, proporción y varianza. Valor p en la toma de decisiones.\nPrueba de hipótesis de dos poblaciones.\nPrueba Chi cuadrado para homogeneidad y pruebas de bondad de ajuste.\nPruebas no paramétricas."
+  },
+  {
+    "objectID": "EA.html#capitulo-4",
+    "href": "EA.html#capitulo-4",
+    "title": "Estadistica aplicada",
+    "section": "Capitulo 4",
+    "text": "Capitulo 4\n\nIntroducción a la regresión lineal, análisis de correlación lineal. Supuestos en la regresión.\nModelo de regresión lineal simple: Estimación por mínimos cuadrados, análisis de varianza, validación de supuestos,\nIntroducción al Modelo de Regresión Lineal múltiple: Variables categóricas, Regresión logística."
+  },
+  {
+    "objectID": "imagelen/R-studio/index.html",
+    "href": "imagelen/R-studio/index.html",
+    "title": "R-studio",
+    "section": "",
+    "text": "Pagina oficial de R: rstudio.com\n\nCurso en español de Coursera: coursera.org/learn/r-programming\nCurso básico de DataCamp: datacamp.com/courses/free-introduction-to-r"
   }
 ]
